@@ -124,7 +124,9 @@ Business-Sales-Intelligence-Dashboard
 
 **Harshit Rasam**
 
-Aspiring Data Analyst | Python | Pandas | SQL | Machine Learning Enthusiast
+Aspiring Data Analyst
+
+Currently building practical Data Analytics projects using Python while continuously strengthening my skills in SQL, Excel, Power BI and Business Intelligence.
 
 ---
 
