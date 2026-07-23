@@ -1,5 +1,7 @@
 # 📊 Business Sales Intelligence Dashboard
 
+A beginner-friendly end-to-end Exploratory Data Analysis (EDA) project that transforms retail sales data into actionable business insights using Python and Pandas.
+
 ## 📌 Project Overview
 
 This project analyzes a retail Superstore Sales dataset using Python and Pandas to identify sales trends, profitable products, regional performance, customer segments, shipping patterns, discount impact, and business opportunities.
